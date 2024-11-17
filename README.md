@@ -2,7 +2,7 @@
 private discord musicbot for youtube
 
 # Requirements
-``pip3 install nextcord
+`pip3 install nextcord
 pip3 install youtube-search-python
 pip3 install spotipy
 pip3 install yt-dlp
