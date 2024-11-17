@@ -18,7 +18,11 @@ private discord musicbot for youtube
 
 # Base-Commands
 `/play <search/URL>`   - works with youtube and spotify
+
 -> uses spotify name and artist and plays first search-result from youtube
+
+
 `/controller`          - opens a controll-panel with all basic features
+
 
 more coming soon...
