@@ -1,0 +1,7 @@
+nextcord
+youtube-search-python
+spotipy
+yt-dlp
+validators
+pytube
+PyNaCl
