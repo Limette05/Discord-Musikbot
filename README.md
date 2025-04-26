@@ -1,5 +1,10 @@
 # Discord-Musikbot
-private discord musicbot for youtube
+FINISHED PROJECT
+I don't update this Project anymore.
+It's just a simple discord musicbot for YouTube
+runs on Python 3.10.4
+
+you need a working discord bot token
 
 ### Requirements
 ```zsh
@@ -13,6 +18,3 @@ pip3 install -r requirements.txt
 
 
 `/controller`          - opens a controll-panel with all basic features
-
-
-more coming soon...
