@@ -22,9 +22,9 @@ class music(commands.Cog):
         self.bot = bot
 
         # spotify
-        self.spotify_id = '704e40ac0e3c41b782f31bccb6c49020'
-        self.spotify_secret = '578e946fdf5546d39b866a1b6c57c3f5'
-        self.spotify_redirect_uri = 'http://45.81.233.195:5000/callback'  # Deine Redirect URI
+        self.spotify_id = 'your_spotify_id'
+        self.spotify_secret = 'your_spotify_secret'
+        self.spotify_redirect_uri = 'http://your_url/callback'  # Deine Redirect URI
 
         self.is_loading = {}
 
